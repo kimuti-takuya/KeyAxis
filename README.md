@@ -20,6 +20,9 @@
 keyboard/mouse  ──(KeyAxis)──▶ vJoy virtual stick   ──▶ DCS sees real "joystick axes"
 ```
 
+> 🌐 **対応言語 / Languages:** 日本語 ・ English ・ 繁體中文 ・ 简体中文 ・ Русский ・ 한국어
+> （アプリの Status タブで切替 / switch on the **Status** tab）
+
 ---
 
 ## 🇯🇵 日本語
@@ -39,7 +42,7 @@ DCS World はキーボードを *ボタン* としてしか扱えず、操縦桿
 - **DCS風オーバーレイ** — 十字（操縦桿の点・最大入力の枠・ラダー・トリム）、各軸のメーター（最大入力＝橙／感度＝水色）、スロットルの現在値（L=緑／R=白）。**要素ごとに自由配置**でき、プレイ中は**完全クリック透過**
 - **ゲーム中に調整** — `Ctrl+ホイール`＝最大入力 / `Alt+ホイール`＝感度（調整量も設定可）
 - **プリセット** — キー配列＋全設定を丸ごと保存・切替
-- **日本語／English** 切替、**自動アップデート**（追加設定不要）
+- **6言語対応** — 日本語 / English / 繁體中文 / 简体中文 / Русский / 한국어（Status タブで切替）、**自動アップデート**（追加設定不要）
 
 ### 🚀 はじめかた
 1. **[最新版をダウンロード](https://github.com/kimuti-takuya/KeyAxis/releases/latest)** して `KeyAxis.exe` を実行（**Python 不要・単一ファイル**）。
@@ -130,7 +133,7 @@ DCS World only treats the keyboard as *buttons* — it can't read it as the anal
 - **DCS-style overlay** — stick cross (dot, max-input edges, rudder, trim), per-axis meters (max = amber / sensitivity = cyan), live throttle (L = green / R = white). Each element is **freely placeable** and **fully click-through** in flight
 - **In-game tuning** — `Ctrl+Wheel` = max input, `Alt+Wheel` = sensitivity (step size configurable)
 - **Presets** — save & switch a whole key layout + all settings
-- **Japanese / English** UI, **auto-update** (no setup needed)
+- **6 languages** — 日本語 / English / 繁體中文 / 简体中文 / Русский / 한국어 (switch on the Status tab), **auto-update** (no setup needed)
 
 ### 🚀 Getting started
 1. **[Download the latest release](https://github.com/kimuti-takuya/KeyAxis/releases/latest)** and run `KeyAxis.exe` (**single file, no Python**).
