@@ -23,6 +23,10 @@ keyboard/mouse  ──(KeyAxis)──▶ vJoy virtual stick   ──▶ DCS sees
 > 🌐 **対応言語 / Languages:** 日本語 ・ English ・ 繁體中文 ・ 简体中文 ・ Русский ・ 한국어
 > （アプリの Status タブで切替 / switch on the **Status** tab）
 
+> 🛟 **困ったとき / Troubleshooting:** [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
+> （DCSのキー割り当てが消えた時の復旧、vJoy、オーバーレイ等 / recover lost DCS bindings, vJoy, overlay, …）
+> アプリ内の **Status タブ →「ヘルプ / 困ったとき」** からも開けます / also reachable from **Status → Help** in the app.
+
 ---
 
 ## 🇯🇵 日本語
