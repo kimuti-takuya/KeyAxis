@@ -178,6 +178,14 @@ The overlay shows only while DCS is focused, is fully click-through, and each el
 
 ---
 
+## 📄 ライセンス / License
+
+KeyAxis は**フリーソフト**です。同梱・使用している第三者コンポーネント（vJoy, Qt/PySide6, qt-material, Python など）とそのライセンスは [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) に記載しています。
+
+KeyAxis is free software. The bundled third-party components and their licenses are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+---
+
 <div align="center">
 <sub>KeyAxis — unofficial, not affiliated with DCS World / Eagle Dynamics. Use at your own risk.</sub>
 </div>
